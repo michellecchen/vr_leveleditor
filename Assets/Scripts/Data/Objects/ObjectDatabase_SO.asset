@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fdb22a5c4af3455cb51b69e651dc74b, type: 3}
+  m_Name: ObjectDatabase_SO
+  m_EditorClassIdentifier: 
+  objects:
+  - <ID>k__BackingField: 0
+    <name>k__BackingField: Cube
+    <prefab>k__BackingField: {fileID: 4768851305602267344, guid: 2dd665e68b8544aba903d5392d4b56e9,
+      type: 3}
+  - <ID>k__BackingField: 1
+    <name>k__BackingField: Wall
+    <prefab>k__BackingField: {fileID: 1588414946557338805, guid: 3ba01e8538072403b9e26d307d61da35,
+      type: 3}
+  - <ID>k__BackingField: 2
+    <name>k__BackingField: Cylinder
+    <prefab>k__BackingField: {fileID: 9166131994462108691, guid: b162fb1aedadd4b2daf53620fea4d7d1,
+      type: 3}
